@@ -1,0 +1,85 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+
+h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+ul{
+    line-height: 40px
+}
+
+.intro{
+    font-style: italic;
+}
+
+.author {
+    color: red;
+  }
+  p.author {
+    font-size: 12px;
+  }
+  .important {
+    color: red;
+  }
+  .unimportant {
+    color: blue;
+  }
+  .cat-climate {
+    background-color: yellow;
+  }
+    
+  img{
+      float: left;
+  }
+
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
+
+  .column {
+    width: 350px;
+    float: left;
+  }
+  .test-box {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+  }
+  .test-box {
+    border: 2px solid red;
+    padding: 6px;
+  }
+
+  .test-box {
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+  }
+  .cats p {
+    background-color: coral;
+  }
+  .dogs p {
+    background-color: steelblue;
+  }
+  .cats p a {
+    font-weight: bold;
+  }
+  .dogs p a {
+    font-style: italic;
+  }
+    
+    
+  
